@@ -3,16 +3,16 @@ Soy un apasionado del desarrollo FullStack y la optimización de infraestructura
 
 🎯 Mis intereses de desarrollo:
 
-Desarrollo FullStack con el stack MERN (MongoDB, Express, React, Node.js).
+- Desarrollo FullStack con el stack MERN (MongoDB, Express, React, Node.js).
 
-Cultura DevOps & Cloud Computing (AWS).
+- Cultura DevOps & Cloud Computing (AWS).
 
-Arquitectura de APIs REST eficientes y seguras.
+- Arquitectura de APIs REST eficientes y seguras.
 
-Modelado y optimización de Bases de Datos (Relacionales y NoSQL).
+- Modelado y optimización de Bases de Datos (Relacionales y NoSQL).
 
 🚀 Estoy abierto a:
 
-Colaboraciones en proyectos de desarrollo web y aplicaciones FullStack.
+- Colaboraciones en proyectos de desarrollo web y aplicaciones FullStack.
 
-Oportunidades para ganar experiencia en entornos de desarrollo ágiles.
+- Oportunidades para ganar experiencia en entornos de desarrollo ágiles.
