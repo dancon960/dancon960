@@ -1,16 +1,18 @@
-## Hi there 👋
+Hola, soy Daniel Jordá👋
+Soy un apasionado del desarrollo FullStack y la optimización de infraestructuras, actualmente centrado en el ecosistema de JavaScript y con la mira puesta en la arquitectura Cloud y DevOps. Me especializo en crear aplicaciones web robustas y escalables, cuidando tanto la experiencia del usuario en el Frontend como la eficiencia y el despliegue en el servidor.
 
-<!--
-**dancon960/dancon960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Mis intereses de desarrollo:
+Desarrollo FullStack con el stack MERN (MongoDB, Express, React, Node.js).
 
-Here are some ideas to get you started:
+Cultura DevOps & Cloud Computing (AWS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Arquitectura de APIs REST eficientes y seguras.
+
+Modelado y optimización de Bases de Datos (Relacionales y NoSQL).
+
+🚀 Estoy abierto a:
+Colaboraciones en proyectos de desarrollo web y aplicaciones FullStack.
+
+Oportunidades para ganar experiencia en entornos de desarrollo ágiles.
+
+Proyectos e iniciativas enfocadas en infraestructura Cloud y automatización de despliegues.
